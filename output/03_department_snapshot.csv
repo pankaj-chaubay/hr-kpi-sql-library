@@ -1,0 +1,7 @@
+department,headcount,avg_tenure_years,annual_personnel_cost,avg_salary,avg_engagement,avg_absences
+All,207,5.35,14633665,70694.0,4.12,9.8
+Admin Offices,7,5.7,541207,77315.0,4.64,7.9
+IT/IS,40,4.16,3780483,94512.0,4.09,10.6
+Production,126,5.57,7612827,60419.0,4.15,9.5
+Sales,26,5.87,1796310,69089.0,3.86,11.7
+Software Engineering,7,5.63,652838,93263.0,4.12,7.3
